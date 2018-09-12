@@ -3,9 +3,9 @@
 개인적으로 기록하는 공간이다.
 
 ---
--asdad
-<h2>WEB개발 사용 언어</h2>
-<h4>1. HTML(Hypertext Markup Language)</h4>
+  
+<h2>WEB개발 사용 언어</h2>  
+<h4>1. HTML(Hypertext Markup Language)</h4> 
 -웹 컨텐츠를 구조화하고, 의미와 의도를 주기위해 사용되는 코드
 <h4>2. css(Cascading Stylesheets)</h4>
 -웹사이트를 디자인할 때 사용하는 코드
